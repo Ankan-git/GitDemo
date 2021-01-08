@@ -13,4 +13,10 @@ public class MyFirstTestNGClass {
 	  System.out.println("postjira6");
 	  System.out.println("postjira7");
   }
+  
+  public void g() {
+	  System.out.println("Developjira1");
+	  System.out.println("Developjira2");
+	  System.out.println("Developjira3");
+  }
 }

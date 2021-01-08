@@ -9,4 +9,10 @@ public class MySecondTestNGClass {
 		  System.out.println("postruby4");
 		
 	  }
+	
+	public void g() {
+		
+		System.out.println("Develop1");
+		System.out.println("Develop2");
+	}
 }
