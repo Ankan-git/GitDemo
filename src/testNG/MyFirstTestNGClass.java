@@ -29,4 +29,9 @@ public class MyFirstTestNGClass {
 	  System.out.println("devMas1");
 	  System.out.println("devMas2");
   }
+  
+  public void m() {
+	  System.out.println("devmas1");
+	  System.out.println("devmas2");
+  }
 }
