@@ -19,4 +19,9 @@ public class MyFirstTestNGClass {
 	  System.out.println("Developjira3");
 	  System.out.println("Developjira4");
   }
+  
+  public void k() {
+	  System.out.println("DevMas1");
+	  System.out.println("DevMas2");
+  }
 }
